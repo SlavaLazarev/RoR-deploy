@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74b76d65-3fab-4636-a1b2-d8e5dab2d42c" name="Changes" comment="">
+    <list default="true" id="74b76d65-3fab-4636-a1b2-d8e5dab2d42c" name="Changes" comment="fix routes.rb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
@@ -45,8 +45,16 @@
       <workItem from="1633334743682" duration="3016000" />
       <workItem from="1633338720037" duration="340000" />
       <workItem from="1633339068612" duration="2678000" />
-      <workItem from="1633349271874" duration="1635000" />
+      <workItem from="1633349271874" duration="2210000" />
     </task>
+    <task id="LOCAL-00001" summary="fix routes.rb">
+      <created>1633351666516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633351666516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="fix routes.rb" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix routes.rb" />
   </component>
 </project>
